@@ -1,6 +1,6 @@
 ---
-Title: Amber力场里的RNA修饰后的力场
-Time: 2024-9-13
+Title Amber力场里的RNA修饰后的力场
+Time 2024-9-13
 ---
 
 all simulations were conducted with the recommended OL3 force field for RNA molecules and the modrna08 [28] force field for modified nucleotides.
