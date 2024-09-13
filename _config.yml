@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
 theme: ff14sb+OL3力场在模拟蛋白-RNA复合物时产生的问题
+It is known that the Amber ff14SB force field underestimates helicity which in connection to 3-point water models leads to overly compact protein structures (Tian et al., 2020). 
+This behavior is enhanced when RNA is bound to the protein, as the electrostatic interactions with the RNA backbone make the complex even more compact. 
+Changing the protein force field to ff19SB and the water model to the 4-point OPC alleviate the problem, as the results show more flexible protein backbone movement (Onufriev and Izadi, 2018). 
+OPLS4 and ff14SB + OL3 simulation sets used the older 3-point water model SPC/E. Even in the case of OPC water model, the electrostatic interactions of RNA with the protein and the other RNA strand are strong which leads to less freedom of movement to all biomolecules. 
+The strong charge-charge interactions are a known issue in non-polarizable force fields (Yoo and Aksimentiev, 2016; Aksimentiev, 2018; Duboué-Dijon et al., 2020; Gallardo et al., 2022), for which there are no easy solutions.
+摘自：RNA-protein complexes and force field polarizability. Frontiers in Chemistry. 2022
+这篇文章认为非可极化力场会倾向于模拟出更加紧密和稳定的蛋白-RNA复合物。
