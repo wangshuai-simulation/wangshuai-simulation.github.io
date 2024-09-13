@@ -1,0 +1,12 @@
+---
+Title: Amber力场里的RNA修饰后的力场
+Time: 2024-9-13
+---
+
+all simulations were conducted with the recommended OL3 force field for RNA molecules and the modrna08 [28] force field for modified nucleotides.
+并没有给出更具体的修饰RNA的力场参数
+参考：Deciphering nucleotide modification-induced structure and stability changes
+Travis Hurst &Shi-Jie Chen
+RNA biology. 2020
+[28]  AMBER Force Field Parameters for the Naturally Occurring Modified Nucleosides in RNA. JCTC. 2007. 
+这里只看到了m5C各个原子的电荷。这篇2007年JCTC很重要，amber23 manul里也引用了它[54]
