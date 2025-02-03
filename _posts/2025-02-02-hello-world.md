@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: "我的第一篇博客"
 ---
 ---
