@@ -1,2 +1,2 @@
 # wangshuai-simulation.github.io
-It's about my first bolog.
+It's a blog mainly recording the things i learn.
