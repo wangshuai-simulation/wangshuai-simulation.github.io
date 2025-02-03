@@ -9,10 +9,9 @@ description: Recording
 
 # Structural Order Parameters of Protein Hydration Water: Insights into the Coupling Between Proteins and Their Solvent
 
-**Authors:** First Author\(1\), Second Author\(2\)  
+**Authors:** First Author\(1\) 
 **Affiliations:**  
 \(1\) Department, Institution, City, Country  
-\(2\) Department, Institution, City, Country  
 **Corresponding Author:** first.author@example.com
 
 ---
