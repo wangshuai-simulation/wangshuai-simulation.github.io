@@ -14,7 +14,6 @@ description: Recording
 \(1\) Department, Institution, City, Country  
 **Corresponding Author:** first.author@example.com
 
----
 
 ## Abstract
 
