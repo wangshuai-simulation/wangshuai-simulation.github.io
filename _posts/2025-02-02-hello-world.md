@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的第一篇博客"
+title: "我的第一篇博客(AI辅助)"
 date: 2025-02-03
 description: Recording
 ---
